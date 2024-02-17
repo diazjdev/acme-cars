@@ -1,0 +1,9 @@
+{
+  "name": "cars-feature-shell",
+  "$schema": "../../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/cars/feature/shell/src",
+  "prefix": "acme-cars",
+  "tags": [],
+  "projectType": "library",
+  "targets": {}
+}

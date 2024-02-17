@@ -1,0 +1,9 @@
+{
+  "name": "detail",
+  "$schema": "../../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/cars/feature/detail/src",
+  "prefix": "acme-cars",
+  "tags": [],
+  "projectType": "library",
+  "targets": {}
+}
