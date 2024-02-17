@@ -1,0 +1,9 @@
+{
+  "name": "data-source",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/cars/data-source/src",
+  "prefix": "acme-cars",
+  "tags": [],
+  "projectType": "library",
+  "targets": {}
+}
