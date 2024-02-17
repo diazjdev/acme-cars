@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@acme-cars/data-source": ["libs/cars/data-source/src/index.ts"]
+      "@acme-cars/data-source": ["libs/cars/data-source/src/index.ts"],
+      "@acme-cars/shell": ["libs/cars/shell/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
