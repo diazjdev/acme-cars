@@ -8,6 +8,10 @@ const routes: Routes = [
     path: 'list',
     loadChildren: () => import('@acme-cars/list').then((m) => m.ListModule),
   },
+  {
+    path: 'list/:carId',
+    loadChildren: () => import('@acme-cars/detail').then((m) => m.DetailModule),
+  },
 ];
 
 @NgModule({

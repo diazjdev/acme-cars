@@ -9,6 +9,5 @@ const routes: Routes = [{ path: '', component: CarsListComponent }];
 @NgModule({
   imports: [CommonModule, RouterModule.forChild(routes)],
   declarations: [...components],
-  exports: [...components],
 })
 export class ListModule {}
