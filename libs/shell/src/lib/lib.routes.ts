@@ -1,7 +1,7 @@
 import { Route } from '@angular/router';
-import { LayoutComponent } from './shared/layout/layout.component';
+import { LayoutComponent } from './layout/layout.component';
 
-export const appRoutes: Route[] = [
+export const shellRoutes: Route[] = [
   {
     path: '',
     component: LayoutComponent,

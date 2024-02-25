@@ -18,7 +18,8 @@
       "@acme-cars/cars/feature/shell": ["libs/cars/feature/shell/src/index.ts"],
       "@acme-cars/data-source": ["libs/cars/data-source/src/index.ts"],
       "@acme-cars/detail": ["libs/cars/feature/detail/src/index.ts"],
-      "@acme-cars/list": ["libs/cars/feature/list/src/index.ts"]
+      "@acme-cars/list": ["libs/cars/feature/list/src/index.ts"],
+      "@shell": ["libs/shell/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

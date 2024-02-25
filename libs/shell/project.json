@@ -1,0 +1,9 @@
+{
+  "name": "shell",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/shell/src",
+  "prefix": "acme-cars",
+  "tags": [],
+  "projectType": "library",
+  "targets": {}
+}
