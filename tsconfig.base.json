@@ -15,7 +15,6 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@acme-cars/cars-ui": ["libs/shared/src/index.ts"],
       "@acme-cars/cars/feature/shell": ["libs/cars/feature/shell/src/index.ts"],
       "@acme-cars/data-source": ["libs/cars/data-source/src/index.ts"],
       "@acme-cars/detail": ["libs/cars/feature/detail/src/index.ts"],
